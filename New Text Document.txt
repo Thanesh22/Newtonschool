@@ -1,0 +1,32 @@
+<html>
+<head>
+<title> samantics tag 3 videos
+</title>
+
+</head>
+	<body>
+		<nav>
+			<ul>
+				<li a href="home">Home</li>
+				<li a href="aboutus">About us </li>
+				<li a href "contact us">Contact us</li>
+			
+			</ul>
+
+		</nav>
+
+		<video controls>
+		
+			< a src"https://www.youtube.com/watch?v=DKk7O_BbHtQ.video/mp4"/>
+
+		<video controls>
+		
+			< a src"https://www.youtube.com/watch?v=fqF9M92jzUo&t=594s.video/mp4"/>
+
+		<video controls>
+
+			< a src"https://www.youtube.com/shorts/sBdDdPxPtYk.video/mp4"/>
+
+	</body>
+
+</html>
